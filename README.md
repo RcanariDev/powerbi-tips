@@ -57,7 +57,9 @@ PorClientesNuevosTag = DashClientesUnionTab12[TotalClientesNuevos] & " (" & FORM
         - Poner la columna creada con el valor y el porcentaje (En este caso, se llama: PorClientesNuevosTag)
 
 
-
+<p align="center">
+  <img src="/img/lab11.jpg" width=60% height=60%>
+</p>
 
 
 
