@@ -58,9 +58,12 @@ PorClientesNuevosTag = DashClientesUnionTab12[TotalClientesNuevos] & " (" & FORM
 
 
 <p align="center">
-  <img src="/img/lab11.jpg" width=60% height=60%>
+  <img src="/img/lab11.jpg" width=30% height=30%>
 </p>
 
+<p align="center">
+  <img src="/img/lab12.jpg" width=30% height=30%>
+</p>
 
 
 
