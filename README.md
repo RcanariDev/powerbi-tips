@@ -71,6 +71,10 @@ PorClientesNuevosTag = DashClientesUnionTab12[TotalClientesNuevos] & " (" & FORM
 
 <br />
 
+- Se utiliza **CALCULATE()** y **ALLSELECTED()**
+
+<br />
+
 ```
 Trx Proporción = 
 DIVIDE(
