@@ -64,6 +64,22 @@ PorClientesNuevosTag = DashClientesUnionTab12[TotalClientesNuevos] & " (" & FORM
 </p>
 
 
+<br />
+<br />
+
+## 3. Automatizar la medida cuando se aplica un filtro
+
+<br />
+
+```
+Trx Proporción = 
+DIVIDE(
+    SUM(Data12[Trx]),
+    CALCULATE(SUM(Data12[Trx]), ALLSELECTED(Data12))
+)*100
+```
+
+
 
 
 
